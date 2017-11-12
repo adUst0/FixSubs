@@ -1,0 +1,5 @@
+#!C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+

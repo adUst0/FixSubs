@@ -1,0 +1,47 @@
+*** Installation started 2017/11/11 15:48 ***
+Source: C:\Users\Boris\Downloads\py2exe-0.9.2.0.win-amd64.exe
+999 Root Key: HKEY_CURRENT_USER
+020 Reg DB Key: [Software\Microsoft\Windows\CurrentVersion\Uninstall]py2exe-py3.6
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\py2exe-py3.6]DisplayName=Python 3.6 py2exe-0.9.2.0
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\py2exe-py3.6]UninstallString="C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Removepy2exe.exe" -u "C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\py2exe-wininst.log"
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\zipextimporter.py
+100 Made Dir: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\boot_common.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\boot_ctypes_com_server.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\boot_service.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\build_exe.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\distutils_buildexe.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\dllfinder.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\hooks.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\icons.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\mf3.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\patch_distutils.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\py2exe_distutils.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\resources.dll
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\resources.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run-py3.3-win-amd64.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run-py3.3-win32.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run-py3.4-win-amd64.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run-py3.4-win32.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\runtime.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_ctypes_dll-py3.3-win-amd64.dll
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_ctypes_dll-py3.3-win32.dll
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_ctypes_dll-py3.4-win-amd64.dll
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_ctypes_dll-py3.4-win32.dll
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_w-py3.3-win-amd64.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_w-py3.3-win32.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_w-py3.4-win-amd64.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\run_w-py3.4-win32.exe
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\setup_template.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\versioninfo.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\_wapi.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\__init__.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe\__main__.py
+100 Made Dir: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info\dependency_links.txt
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info\entry_points.txt
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info\PKG-INFO
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info\SOURCES.txt
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\py2exe-0.9.2.0-py3.4.egg-info\top_level.txt
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Scripts\build_exe-script.py
+200 File Copy: C:\Users\Boris\AppData\Local\Programs\Python\Python36-32\Scripts\build_exe.exe
