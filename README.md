@@ -1,7 +1,6 @@
 FixSubs
 ===============
-* Small Python3 script for fixing the encoding of cyrillic subtitles
-* GUI
+* Small Python3 script with GUI for fixing the encoding of cyrillic subtitles.
 
 How to use:
 ===============
@@ -14,6 +13,6 @@ How to use:
 	* If you have installed Python3 double click on FixSubs.bat
 	* If you don't have Python3 double click on FixSubs_no_Py_Installed.bat (There is a chance that this doesn't work, so just install Python3)
 * Once the application has started:
-	* Clock the Browse button and choose a file
+	* Click the Browse button and choose a file
 	* Click the Fix Encoding button
 	* Enjoy
